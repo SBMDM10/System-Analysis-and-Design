@@ -2,20 +2,21 @@
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-
+DriverPass was a company wishing to provide online classes, practice DMV exams, and in person driving tests to those that do not have their driver's license. They came to the company I was working for to request an online, cloud hosted system to provide these services to their customers.
 
 What did you do particularly well?
 
-
+I did well at listening to our client, DriverPass, and developing a strong understanding with which I was able to create many diagrams to express how the system they wanted and envisioned was perceived by my team. With this understanding and many types of diagrams created of the system, we were able to explain what exactly we were making to the client and show them how we were meeting their wants and needs.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-
+I would like to go back and review my sytem design documents, the diagrams I mentioned in the previous paragraph. At my current skill level, I was able to make diagrams that purveyed understanding of the wants of our client and the prospective ssytem design. I would love to come back in the future and revise them with a higher level of experience to account for things such as user friendliness, multiple options, different ways of carrying out a function, and so much more.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-
+The system for DriverPass was mostly created after intense review of the transcript between their owner and system administrator and our team. Every little thing they said was considered as to whether it was a point to add to the system and then evaluated whether or not it was feasible to implement. Going through thinking up their system and creating the diagrams to express our understanding we made sure to give them what they wanted and needed with the exception of one feature that was not possible until they had personnel that could manage the system from a programmer standpoint. DriverPass personnel are some of the users. and what they requested we implemented. For the customer, I made sure to create the system in a way where they do not hit dead ends and can determine when they are done with different functions. The system can be made very basic that whether or not an action was successful it would take them to the system home screen, but special thought was given to allow the user to err and then correct what they were doing until their end goal is accomplished. The user should always be considered as an equal to making the system do what it is intended to do, because if the system is not usable or friendly to the user, they wont use it.
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-
+I start designing software in a process starting with the requirements. I read the transcript of what the client wanted and formulated the ideas of the system. From there I got into making diagrams to put ideas to paper and look at my actual thoughts to make sure they were coherent and made sense. With all of the different diagrams I was able to cover the required functions for all types of users, flow paths of how a user will accomplish a function in the system, and then covered classes, objects, and relationships between them. I would create these diagrams and iterate over them until I was satisfied I met what the client desired. I would then get the client's feedback on such and iterate through them again until they agreed with what I offered. From there, I have a system design that is agreed upon and actual creation could commence. 
+In a real life scenario, it would be very important to speak with your peers to learn if there are any better methods of performing what you had decided. Leverage experience from past projects for similar functionalities, get more client feedback to keep eyes on target, and then speak with your programmers to determine if diagrams can be brought to fruition. Every person involved should be on the same page and agree what is to be done, and also agree that the proposed system is feasible. Team cohesion and synergy will prove the best technique for analyzing and designing a system. I cannot wait until I make it that far in my career!
